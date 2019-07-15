@@ -1,0 +1,22 @@
+#productnew .col-md-3{
+    display: inline-block;
+    margin-left:-4px;
+}
+#productnew .col-md-3 img{
+    width:100%;
+    height:auto;
+}
+#productnew .carousel-indicators li{
+    background-color:red;
+}
+#productnew .carousel-indicators{
+    bottom: 0;
+}
+#productnew .carousel-control-prev-icon,
+#productnew .carousel-control-next-icon{
+    background-color:red;
+}
+#productnew .no-padding{
+    padding-left: 0;
+    padding-right: 0;
+}
